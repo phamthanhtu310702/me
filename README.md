@@ -1,4 +1,6 @@
-My name is Phạm Thanh Tú. I am from VietNam
+My name is Phạm Thanh Tú. 
+
+I am from VietNam :vietnam:
 
 # Me on the Internet
 - Twitter: 
